@@ -10,4 +10,6 @@ To run backend (.NET)
 Screenshots:
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/d8a1a40c-56d5-43b2-bda8-8c881da2ab6f" />
 <img width="932" alt="image" src="https://github.com/user-attachments/assets/e433978d-62a8-47a0-a055-fb819ec6d863" />
+<img width="470" alt="image" src="https://github.com/user-attachments/assets/44a51df1-65eb-43ac-9ada-56023421f6e2" />
+
 
